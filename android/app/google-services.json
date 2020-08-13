@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "2061141750",
+    "firebase_url": "https://gimigtestproject.firebaseio.com",
+    "project_id": "gimigtestproject",
+    "storage_bucket": "gimigtestproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2061141750:android:dbd9a82492442471a20ed7",
+        "android_client_info": {
+          "package_name": "ju.gimigfirebasetestgastro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2061141750-vtrcl9864v2mkrnmlublf5hrjjjd6d9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgn8eDcUTxyJwFaBAfSB1NfC0cswKST80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2061141750-vtrcl9864v2mkrnmlublf5hrjjjd6d9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
